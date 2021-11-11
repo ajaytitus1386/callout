@@ -32,23 +32,27 @@ A dedicated platform to be used to raise awareness of any kind of issue, to whic
 
 ## Sample Screenshots
 
-### Log In and Sign Up
-<img alt="Home Page Sample" src="./screenshots/SignIn.png"/>
+### Sign Up and Log In
+<div style="display:flex;flex-direction:row;">
 
-<img alt="Home Page Sample" src="./screenshots/LogIn.png"/>
+  <img alt="Sign In" src="https://github.com/ajaytitus1386/callout/blob/main/screenshots/SignIn.PNG?raw=true"/>
+
+  <img alt="Log In" src="https://github.com/ajaytitus1386/callout/blob/main/screenshots/LogIn.PNG?raw=true"/>
+
+ </div>
 <hr />
 
 ### Home Page
-<img alt="Home Page Sample" src="./screenshots/Home.png"/>
+<img alt="Home Page" src="https://github.com/ajaytitus1386/callout/blob/main/screenshots/Home.PNG?raw=true"/>
 <hr>
 
 ### Write a Post
-<img alt="Home Page Sample" src="./screenshots/WriteSS.png"/>
+<img alt="New Post" src="https://github.com/ajaytitus1386/callout/blob/main/screenshots/WriteSS.PNG?raw=true"/>
 <hr>
 
 ### Full Page of a Post
-<img alt="Home Page Sample" src="./screenshots/FullPostSS.png"/>
+<img alt="View Post" src="https://github.com/ajaytitus1386/callout/blob/main/screenshots/FullPostSS.PNG?raw=true"/>
 <hr>
 
 ### Map View
-<img alt="Home Page Sample" src="./screenshots/Map.png"/>
+<img alt="Map View" src="https://github.com/ajaytitus1386/callout/blob/main/screenshots/Map.PNG?raw=true"/>
